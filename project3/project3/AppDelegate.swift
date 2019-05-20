@@ -7,6 +7,7 @@
 //
 
 import UIKit
+//fgu
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
